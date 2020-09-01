@@ -8,8 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Philippe PERECHODOV">
 
-    <title>
-      <?php echo $title; ?></title>
+    <title><?php echo $title; ?></title>
 
     <link rel="stylesheet" href="public/CSS/style.css">
 
